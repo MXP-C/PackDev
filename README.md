@@ -1,4 +1,4 @@
-# 🧩 ModForge
+# 🧩 PackDev
 
 Um **Modpack Builder** avançado para **Minecraft**, feito em Python com **Tkinter** e integração direta com a **API do Modrinth**.  
 Crie, gerencie e exporte seus modpacks com facilidade — incluindo **busca inteligente, recomendações automáticas e salvamento de projetos em JSON**.
